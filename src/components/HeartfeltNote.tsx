@@ -17,7 +17,7 @@ const HeartfeltNote = () => {
     <section ref={ref} className="py-24 px-6 bg-cream/50">
       <div className="max-w-3xl mx-auto">
         <h2 className="font-display text-4xl md:text-5xl text-center text-gradient-rose mb-4">
-          A Note For Ritika Didi
+          A Note For Didi
         </h2>
         <p className="font-script text-xl text-muted-foreground text-center mb-12">
           From my heart to yours 💌

@@ -27,7 +27,7 @@ const SpecialQualities = () => {
     <section ref={ref} className="py-24 px-6 sparkle-bg">
       <div className="max-w-4xl mx-auto">
         <h2 className="font-display text-4xl md:text-5xl text-center text-gradient-rose mb-4">
-          Why Ritika Didi Is So Special
+            Didi Is So Special
         </h2>
         <p className="font-script text-xl text-muted-foreground text-center mb-16">
           A few reasons among millions 🌸
